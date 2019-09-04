@@ -1,5 +1,5 @@
 # Intro
 
-github.com/SamuelLi23/Intro
+<github.com/SamuelLi23/Intro>
 
-github.com/a-poorva/IntroBME547
+<github.com/a-poorva/IntroBME547>
